@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Shelikhov
+- 👀 I’m interested in Bash and Python
+- 🌱 I’m currently learning DevOps methodology
+- 📫
