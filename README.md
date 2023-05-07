@@ -1,1 +1,4 @@
-![68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3736332f312a6c677436453662474333383452384d4b474d334658772e706e67](https://user-images.githubusercontent.com/49662564/236694590-d235ef5c-af48-4d35-a65f-3513b3b727d4.png)
+- 👋 Hi, I’m @Shelikhov
+- 👀 I’m interested in Bash and Python
+- 🌱 I’m currently learning DevOps methodology
+- 📫 shelikhov.evgenii.21@gmail.com
