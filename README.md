@@ -6,4 +6,5 @@ Reach me by:
 <a href="https://www.linkedin.com/in/evgenii-shelikhov-04b721225/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badgelogo=linkedinlogoColor=white" alt="LinkedIn">
 </a>
+
 📫 shelikhov.evgenii.21@gmail.com
