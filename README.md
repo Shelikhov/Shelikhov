@@ -2,6 +2,9 @@
   <h1>👋 Hi, I’m Evgenii!</h1>
   <h3>DevOps Engineer.</h3>
 </div>
+
+Technologies and Tools:
+
 Reach me by:
 <div>
   <a href="https://www.linkedin.com/in/evgenii-shelikhov-04b721225/">
